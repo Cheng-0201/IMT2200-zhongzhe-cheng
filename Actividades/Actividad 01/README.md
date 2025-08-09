@@ -8,4 +8,4 @@ imt2200_actividad1
 
 ~~Wow~~
 
-![poblacion 2017](./PoblacionRM_C2017_Cheng.jpg)
+![poblacion 2017](./PoblacionRM_C2017_CHENG.jpg)
