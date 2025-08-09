@@ -1,4 +1,4 @@
-# Hello Actividad1
+# Hello Actividad 01
 
 imt2200_actividad1
 
@@ -8,4 +8,4 @@ imt2200_actividad1
 
 ~~Wow~~
 
-![poblacion 2017](./PoblacionRM_C2017_Zhongzhe_Cheng.jpg)
+![poblacion 2017](./PoblacionRM_C2017_Cheng.jpg)
